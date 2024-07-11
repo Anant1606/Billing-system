@@ -61,7 +61,7 @@ function App() {
 
           <article className="md:grid grid-cols-3 gap-10 mt-5">
             <div className="flex flex-col">
-              <label htmlFor="invoiceNumber">Invoice Number</label>
+              <label htmlFor="invoiceNumber">Quatation Number</label>
               <input
                 type="text"
                 name="invoiceNumber"
@@ -74,7 +74,7 @@ function App() {
             </div>
 
             <div className="flex flex-col">
-              <label htmlFor="invoiceDate">Invoice Date</label>
+              <label htmlFor="invoiceDate">Quotation Date</label>
               <input
                 type="date"
                 name="invoiceDate"
