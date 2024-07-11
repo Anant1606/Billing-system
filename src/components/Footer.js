@@ -27,6 +27,7 @@ export default function Footer() {
             src={FooterImage} // Adjust the path as needed
             alt="Footer Image" 
             className="w-full h-auto"
+            style={{ maxWidth: "100%", height: "auto" }} // Ensure the image adjusts responsively
           />
         </div>
       </footer>

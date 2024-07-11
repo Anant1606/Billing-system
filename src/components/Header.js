@@ -14,7 +14,7 @@ export default function Header() {
         </div>
         <div>
           <h1 className="font-bold uppercase tracking-wide text-4xl mb-3">
-            Invoicer
+            Quotation
           </h1>
         </div>
       </header>
